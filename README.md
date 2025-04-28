@@ -1,2 +1,15 @@
-# my-linux-stuff
-Some linux (especially Arch) stuff that I like. It's including repos, apps, libraries, dot files and etc.
+# My Linux Stuff
+
+## Apps
+
+ - Better Control - [github link](https://github.com/quantumvoid0/better-control)
+
+## From r/unixporn
+
+- Ultrawide hyprland rice - [reddit link](https://www.reddit.com/r/unixporn/comments/1k8xkgf/hyprland_tiling_and_ultrawide_keeping_it_fresh/) | [github link](https://github.com/SherLock707/hyprland_dot_yadm?tab=readme-ov-file#hyprland-stuff)
+ - Rice on COSMIC DE - [reddit link](https://www.reddit.com/r/unixporn/comments/1k0i10o/cosmic_honestly_cosmic_is_cooler_than_i_expected/)
+ - Bocchi The Linux [hyprland] - [reddit link](https://www.reddit.com/r/unixporn/comments/1k0inyk/hyprland_bocchi_the_linux/) | [github link](https://github.com/SuperFemboy/Dots-Bocchi)
+ - Cool GNOME rice - [reddit link](https://www.reddit.com/r/unixporn/comments/1k1fimm/gnome_basic_setup/)
+ - Mizuki Rice [hyprland] - [reddit link](https://www.reddit.com/r/unixporn/comments/1k623qz/hyperland_gtk_matugen_is_so_pretty_and_mizuki_is/)
+ - i3 xorg rice - [reddit link](https://www.reddit.com/r/unixporn/comments/1k5b49j/i3_still_using_xorg/)
+ - Cute [hyprland] - [reddit link](https://www.reddit.com/r/unixporn/comments/1k4sv22/hyprland/)
