@@ -2,6 +2,7 @@
 
 ## Apps
 
+ - Faugus Game Launcher (I think in can run ZZZ) - [github link](https://github.com/Faugus/faugus-launcher)
  - Better Control - [github link](https://github.com/quantumvoid0/better-control)
 
 ## From r/unixporn
