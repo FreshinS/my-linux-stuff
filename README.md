@@ -7,7 +7,8 @@
 
 ## From r/unixporn
 
-- Ultrawide hyprland rice - [reddit link](https://www.reddit.com/r/unixporn/comments/1k8xkgf/hyprland_tiling_and_ultrawide_keeping_it_fresh/) | [github link](https://github.com/SherLock707/hyprland_dot_yadm?tab=readme-ov-file#hyprland-stuff)
+ - herta hsr rice - [reddit link](https://www.reddit.com/r/unixporn/comments/1krunrd/hyprland_quickshell_magical_girl_rotation_rice/)
+ - Ultrawide hyprland rice - [reddit link](https://www.reddit.com/r/unixporn/comments/1k8xkgf/hyprland_tiling_and_ultrawide_keeping_it_fresh/) | [github link](https://github.com/SherLock707/hyprland_dot_yadm?tab=readme-ov-file#hyprland-stuff)
  - Rice on COSMIC DE - [reddit link](https://www.reddit.com/r/unixporn/comments/1k0i10o/cosmic_honestly_cosmic_is_cooler_than_i_expected/)
  - Bocchi The Linux [hyprland] - [reddit link](https://www.reddit.com/r/unixporn/comments/1k0inyk/hyprland_bocchi_the_linux/) | [github link](https://github.com/SuperFemboy/Dots-Bocchi)
  - Cool GNOME rice - [reddit link](https://www.reddit.com/r/unixporn/comments/1k1fimm/gnome_basic_setup/)
