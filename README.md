@@ -17,3 +17,4 @@
  - i3 xorg rice - [reddit link](https://www.reddit.com/r/unixporn/comments/1k5b49j/i3_still_using_xorg/)
  - Cute [hyprland] - [reddit link](https://www.reddit.com/r/unixporn/comments/1k4sv22/hyprland/)
  - MacOs GNOME - [reddit link](https://www.reddit.com/r/unixporn/s/0ukTN7qSxD)
+ - momoi miku linux [hyprland] - [github link](https://github.com/Mon4sm/monasm-dots)
