@@ -2,6 +2,7 @@
 
 ## Apps
 
+ - Spicetify: Spotify themes and extensions - [github link](https://github.com/spicetify/cli)
  - Telegram Glass Theme - [github link](https://github.com/weskerty/TelegramGlassTheme)
  - Faugus Game Launcher (I think in can run ZZZ) - [github link](https://github.com/Faugus/faugus-launcher)
  - Better Control - [github link](https://github.com/quantumvoid0/better-control)
