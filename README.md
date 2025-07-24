@@ -6,6 +6,7 @@
  - Telegram Glass Theme - [github link](https://github.com/weskerty/TelegramGlassTheme)
  - Faugus Game Launcher (I think in can run ZZZ) - [github link](https://github.com/Faugus/faugus-launcher)
  - Better Control - [github link](https://github.com/quantumvoid0/better-control)
+ - Pallettum: images recolor to match your theme - [github link](https://github.com/arrowpc/palettum#)
 
 ## From r/unixporn
 
