@@ -2,6 +2,7 @@
 
 ## Apps
 
+ - Terminal Media Player: Images and Videos ASCII convert - [github link](https://github.com/maxcurzi/tplay)
  - Spicetify: Spotify themes and extensions - [github link](https://github.com/spicetify/cli)
  - Telegram Glass Theme - [github link](https://github.com/weskerty/TelegramGlassTheme)
  - Faugus Game Launcher (I think in can run ZZZ) - [github link](https://github.com/Faugus/faugus-launcher)
