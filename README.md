@@ -23,3 +23,4 @@
  - MacOs GNOME - [reddit link](https://www.reddit.com/r/unixporn/s/0ukTN7qSxD)
  - momoi miku linux [hyprland] - [github link](https://github.com/Mon4sm/monasm-dots)
 - vivianvivianvivian [kde] - [reddit link](https://www.reddit.com/r/unixporn/s/Bx7yZGu8ze)
+- Hyprland gnome-like rice - [reddit link](https://www.reddit.com/r/unixporn/s/hOPd7ccxdF)
