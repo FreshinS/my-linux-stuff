@@ -25,3 +25,4 @@
 - vivianvivianvivian [kde] - [reddit link](https://www.reddit.com/r/unixporn/s/Bx7yZGu8ze)
 - Hyprland gnome-like rice - [reddit link](https://www.reddit.com/r/unixporn/s/hOPd7ccxdF)
 - Best NixOS rice - [reddit link](https://www.reddit.com/r/unixporn/s/g5qjhUjS9x)
+- black and white - [reddit link](https://www.reddit.com/r/unixporn/comments/1oof7bg/hyprland_idk/)
